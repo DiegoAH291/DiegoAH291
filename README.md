@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+<h1>Hi, I'm Diego Augusto Herrera ✌️</h1> 
+ <img width="100%"  src="https://res.cloudinary.com/dvfihxcwo/image/upload/v1704834311/DIEGOAH291_1_zqax3g.svg" /> 
+</div>
+
+<div>
+    <h3>About Me</h3>
+  <li>👩‍💻 Full-Stack Developer</li>
+</div>
 
 <!--
 **DiegoAH291/DiegoAH291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
